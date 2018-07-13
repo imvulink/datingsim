@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "dating sim",
+"dataUrl": "dating sim test 1.data.unityweb",
+"wasmCodeUrl": "dating sim test 1.wasm.code.unityweb",
+"wasmFrameworkUrl": "dating sim test 1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
